@@ -1,2 +1,2 @@
-# Portal ReadMe
-Basic Portal mechanism using Arrays
+# ReadMe
+All the Scripts for the game Breakout.
